@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ワード",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-06T10:24:35.613538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・ワード",
+      "artist": "Opeth",
+      "has_synced": true,
+      "path": "select/01_ザ・ワード_Opeth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フォー・レター・ワード",
+      "artist": "Escape the Fate",
+      "has_synced": false,
+      "path": "select/02_フォー・レター・ワード_Escape_the_Fate.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワード",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/03_ワード_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワード",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/04_ワード_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Word [ワード]",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/05_Word_[ワード]_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Four Letter Word = フォー・レター・ワード",
+      "artist": "Def Leppard = デフ・レパード",
+      "has_synced": false,
+      "path": "select/06_Four_Letter_Word_=_フォー・レター・ワード_Def_Leppard_=_デフ・レパード.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ワード",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/07_ワード_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ワード",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/08_ワード_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ワード",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/09_ワード_Sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワード",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ワード_サカナクション.txt"
+    }
+  ]
+}
